@@ -297,7 +297,4 @@ Type "help", "copyright", "credits" or "license()" for more information.
 ╠══════════╬══════════════╬═════════╬════════════╣
 ║  3.8GB   ║ 600.0bytes/s ║ 105.8MB ║ 0.0bytes/s ║
 ╚══════════╩══════════════╩═════════╩════════════╝
-Traceback (most recent call last):
-  File "C:\Users\Dolly  Vara Kaathika\Desktop\PRODIGY\CS Task_05.py", line 45, in <module>
-    os.system('clear')
-KeyboardInterrupt
+
